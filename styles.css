@@ -429,3 +429,29 @@ section {
   justify-content: center;
   align-items: center;
 }
+.about-section {
+  padding: 80px 0;
+}
+.about-content {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+}
+.tech-icons i {
+  font-size: 2rem;
+  margin: 10px;
+  color: #f8f9fa;
+}
+.btn-custom {
+  background: #007bff;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+.btn-custom:hover {
+  background: #0056b3;
+}
