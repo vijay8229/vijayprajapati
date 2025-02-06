@@ -1,3 +1,4 @@
 User-agent: *
-Disallow: /admin/
 Allow: /
+
+Sitemap: https://vijay8229.github.io/vijayprajapati/sitemap.xml
